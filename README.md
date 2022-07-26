@@ -1,1 +1,1 @@
-# BPMN_diagram_for_the_employee_termination_process
+Диаграмма процесса увольнения сотрудника из компании по собственному желанию в нотации BPMN
